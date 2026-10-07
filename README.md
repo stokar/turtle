@@ -4,10 +4,7 @@ Python `turtle` kütüphanesiyle yazılmış küçük bir oyun. Ekranda rastgele
 
 ## Nasıl oynanır?
 
-- Hareket eden kaplumbağaya tıkla, her yakalayışta skorun artar.
-- Skor sol üstte, kalan süre sağ üstte görünür.
-- Süre bitince sonuç ekranda yazar.
-- Sağ alttaki kırmızı **ÇIKIŞ** butonuna basınca oyun kapanır.
+Süre bitmeden kaplumbağaya olabildiğince çok tıkla. Skor ekranın üstünde yazar. Oyundan çıkmak için **ÇIKIŞ** butonuna bas.
 
 ## Kurulum ve çalıştırma
 
